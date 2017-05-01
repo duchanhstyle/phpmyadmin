@@ -1,6 +1,6 @@
 /********************
 *                   *
-*     ionutvmi      *
+*     Hanh Nguyen     *
 *  wap phpmyadmin   *
 *     v 2.1         *
 *                   *
@@ -20,10 +20,10 @@ A WEB BROWSER
 NOTE: i would be very happy to see new teplates for this (iPhone :x)
 
 /******* bugs ******/
-I'M STILL TESTING THIS SCRIPT SO IF YOU FIND ANY BUGS PLEASE REPORT IT AT ionutvmi@gmail.com  also you can get help on master-land.net
+I'M STILL TESTING THIS SCRIPT SO IF YOU FIND ANY BUGS PLEASE REPORT IT AT haclongstudio@gmail.com also you can get help on master-land.net
 
 /**** DONATIONS ****/
-If you want to support the development of this app you can donate via PayPal: ionutvmi@gmail.com
+If you want to support the development of this app you can donate via PayPal: haclongstudio@gmail.com
 
 Thank you,
-ionutvmi
+Hanh Nguyen
